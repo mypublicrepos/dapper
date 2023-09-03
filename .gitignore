@@ -1,0 +1,16 @@
+.vs
+.vs/
+bin
+obj
+packages
+bin/Debug/net6.0
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+Properties
+/appsettings.Development
+/WebApi/appsettings.Development.json
